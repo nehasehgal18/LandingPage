@@ -227,7 +227,10 @@ footer{
     border-radius: 15px;
     cursor:pointer;
 }
-
+.btn::hover{
+    background-color: lime;
+    color: black;
+}
 .center{
     text-align: center;
 }
